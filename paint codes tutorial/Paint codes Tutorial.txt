@@ -1,0 +1,37 @@
+Paint
+
+Explicación: This tutorial explains how to get the paint codes for Walls and Floor with the paint grafic
+Function: The square examples come like this...
+
+Wall
+Floor
+Wall
+Floor
+Wall
+Floor
+Wall
+Floor
+Wall
+Floor
+Wall
+Floor
+Wall
+Wall
+Wall
+Wall
+
+Now we want the Big Yellow Squares paint we will check its position on the grafic wich comes on the left
+of the square example and we will see that the number is 400 now, we will need the color code qich comes on the top
+of the square example and we will see its 7 so, to get the final code we will need to add the Position and the Color Code.
+Position = 400 + Color Code = 7 so it will be like this...
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!P + C = Code  !!!
+!!!P = 400           !!! 
+!!!C = 7              !!!
+!!!400 + 7 = 407  !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+So the final code for Big Yellow Squares paint = 407!!!
+
+------------------------------------------------------------------------------------------------------------------------------------
+-------------------------Tutorial Created by: OscarMedina  www.OscarMedina.Tk-------------------------
+------------------------------------------------------------------------------------------------------------------------------------
